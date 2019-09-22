@@ -33,4 +33,8 @@ end
 def update_counting_hash(hash, key)
     {'hello' =>1}
     {total: => 5, age: }
+    [age: => 1]
+    {number: => 1, amount: 50}
+         counter (number) += 1
+    
 end
