@@ -32,4 +32,5 @@ end
 
 def update_counting_hash(hash, key)
     {'hello' =>1}
+    {total: => 5, age: }
 end
